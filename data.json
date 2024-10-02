@@ -1,0 +1,12 @@
+[
+    {
+        "titulo": "Box Engasse",
+        "precio": "15000",
+        "imagen": "img/boxengasse.png"
+    },
+    {
+        "titulo": "English Horse",
+        "precio": "25000",
+        "imagen": "img/englishrose.png"
+    }
+]
